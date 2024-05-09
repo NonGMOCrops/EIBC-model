@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="featurize@workspace.featurize.cn:33450" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="featurize@workspace.featurize.cn:11690">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:12909">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:13072">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_624" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:13391">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_409" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:13447">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:17262">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_298" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:18499">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:18499 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:18546">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/featurize/work" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:19788">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_582" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:19966">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:20665">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_422" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:23027">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_896" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:25196">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_939" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:29225">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_766" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:29774">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_636" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:29774 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_604" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:29774 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_45" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:31337">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_423" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:31521">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_997" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:32260">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_494" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:33450">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_278" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:33866">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_838" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:33893">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/featurize/work" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:36147">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_741" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:37234">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_151" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:37768">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_989" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:38319">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_444" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:41904">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_916" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:42680">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_76" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:42869">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:45193">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_237" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:48677">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_504" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:49272">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:50115">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/featurize/work" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:50357">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_849" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:51079">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_632" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:52327">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_803" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:52357">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_277" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:53525">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/featurize/work" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:55816">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:56600">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:57778">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_866" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:58357">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:58357 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_199" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:58755">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/featurize/work" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:59047">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_363" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:59526">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_267" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:62487">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_448" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:64409">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_4" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:64459">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_342" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:64543">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_31" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:65361">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_781" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:65449">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_872" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
